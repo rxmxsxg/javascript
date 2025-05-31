@@ -1,3 +1,9 @@
+let isNull = null
+console.log(typeof isNull)
+
+let isUndefined
+console.log(typeof isUndefined)
+
 let isNum1 = 1
 console.log(typeof isNum1)
 let isNum2 = 2.2
